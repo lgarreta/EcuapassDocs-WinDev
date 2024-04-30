@@ -2,6 +2,7 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
+30-Abril: r0.842. Refactored bot initEcuapassWindow: activate using pywinauto. Hidden extra GUI buttons. 
 29-Abril: r0.841.3 Enable feedback. Restored RPC server after testing sockets.
 26-Abril: r0.841.2 Changed info tipoProc Byza===NTA.
 26-Abril: r0.841.1 Removed pause in batch.
