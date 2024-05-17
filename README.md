@@ -2,6 +2,11 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
+16-Mayo: r0.86  Added two user for NTA. Codebin search using NAME istead ID.
+13-Mayo: r0.851 Add headless.
+13-Mayo: r0.850 Improved CodebinBot. Fixed info classes.
+11-Mayo: r0.843 Taking info from CODEBIN. Modified GUI, Server, and library.
+30-Abril: r0.842.2 Test Reinstalled
 30-Abril: r0.842.1 Reinstalled
 30-Abril: r0.842. Refactored bot initEcuapassWindow: activate using pywinauto. Hidden extra GUI buttons. 
 29-Abril: r0.841.3 Enable feedback. Restored RPC server after testing sockets.

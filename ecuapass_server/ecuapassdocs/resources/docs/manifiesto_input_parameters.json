@@ -2,8 +2,8 @@
     "id": {
         "align": "left",
         "class": "input_numero",
-        "field": "",
-        "fieldCodebin": "",
+        "ecudocsField": "",
+        "codebinField": "",
         "font": "large",
         "fontSize": "26px",
         "height": 28,
@@ -23,8 +23,8 @@
     "numero": {
         "align": "left",
         "class": "input_numero",
-        "field": "",
-        "fieldCodebin": "",
+        "ecudocsField": "",
+        "codebinField": "",
         "font": "large",
         "fontSize": "26px",
         "height": 28,
@@ -48,7 +48,7 @@
         ],
         "align": "left",
         "class": "input_numero",
-        "field": "00_Pais",
+        "ecudocsField": "00_Pais",
         "font": "large",
         "fontSize": "26px",
         "height": 28,
@@ -58,7 +58,7 @@
         "width": 40,
         "x": 760,
         "y": 94,
-        "fieldCodebin": "pais"
+        "codebinField": ""
     },
     "txt00": {
         "restrictions": [
@@ -66,7 +66,7 @@
         ],
         "align": "left",
         "class": "input_numero",
-        "field": "00b_Numero",
+        "ecudocsField": "00b_Numero",
         "font": "large",
         "fontSize": "26px",
         "height": 28,
@@ -76,7 +76,7 @@
         "width": 203,
         "x": 847,
         "y": 94,
-        "fieldCodebin": ""
+        "codebinField": "no"
     },
 
     "txt01": {
@@ -85,7 +85,7 @@
         ],
         "align": "left",
         "class": "input_numero",
-        "field": "01_Transportista",
+        "ecudocsField": "01_Transportista",
         "font": "hidden",
         "fontSize": "28px",
         "height": 150,
@@ -95,12 +95,12 @@
         "width": 503,
         "x": 52,
         "y": 172,
-        "fieldCodebin": ""
+        "codebinField": ""
     },
     "txt02": {
         "align": "center",
         "class": "input_permiso",
-        "field": "02_Permiso_Originario",
+        "ecudocsField": "02_Permiso_Originario",
         "font": "large",
         "fontSize": "28px",
         "height": 58,
@@ -110,12 +110,12 @@
         "width": 485,
         "x": 572,
         "y": 172,
-        "fieldCodebin": ""
+        "codebinField": ""
     },
     "txt03": {
         "align": "center",
         "class": "input_permiso",
-        "field": "03_Permiso_Servicios",
+        "ecudocsField": "03_Permiso_Servicios",
         "font": "large",
         "fontSize": "28px",
         "height": 58,
@@ -125,12 +125,12 @@
         "width": 485,
         "x": 572,
         "y": 264,
-        "fieldCodebin": ""
+        "codebinField": ""
     },
     "txt04": {
         "align": "left",
         "class": "input_general",
-        "field": "04_Camion_Marca",
+        "ecudocsField": "04_Camion_Marca",
         "font": "normal",
         "fontSize": "14px",
         "height": 25,
@@ -140,12 +140,12 @@
         "width": 251,
         "x": 52,
         "y": 372,
-        "fieldCodebin": "a4"
+        "codebinField": "a4"
     },
     "txt05": {
         "align": "left",
         "class": "input_fecha",
-        "field": "05_Camion_AnoFabricacion",
+        "ecudocsField": "05_Camion_AnoFabricacion",
         "font": "normal",
         "fontSize": "14px",
         "height": 25,
@@ -155,12 +155,12 @@
         "width": 135,
         "x": 316,
         "y": 372,
-        "fieldCodebin": "a5"
+        "codebinField": "a5"
     },
     "txt06": {
         "align": "left",
         "class": "input_placaPais",
-        "field": "06_Camion_PlacaPais",
+        "ecudocsField": "06_Camion_PlacaPais",
         "font": "normal",
         "fontSize": "14px",
         "height": 25,
@@ -170,12 +170,12 @@
         "width": 279,
         "x": 463,
         "y": 372,
-        "fieldCodebin": "a6"
+        "codebinField": "a6"
     },
     "txt07": {
         "align": "left",
         "class": "input_general",
-        "field": "07_Camion_Chasis",
+        "ecudocsField": "07_Camion_Chasis",
         "font": "normal",
         "fontSize": "14px",
         "height": 25,
@@ -185,12 +185,12 @@
         "width": 304,
         "x": 753,
         "y": 372,
-        "fieldCodebin": "a7"
+        "codebinField": "a7"
     },
     "txt08": {
         "align": "left",
         "class": "input_certificado",
-        "field": "08_Certificado_Habilitacion",
+        "ecudocsField": "08_Certificado_Habilitacion",
         "font": "normal",
         "fontSize": "14px",
         "height": 20,
@@ -200,12 +200,12 @@
         "width": 700,
         "x": 277,
         "y": 403,
-        "fieldCodebin": "a8"
+        "codebinField": "a8"
     },
     "txt09": {
         "align": "left",
         "class": "input_general",
-        "field": "09_Remolque_Marca",
+        "ecudocsField": "09_Remolque_Marca",
         "font": "normal",
         "fontSize": "14px",
         "height": 25,
@@ -215,12 +215,12 @@
         "width": 251,
         "x": 52,
         "y": 464,
-        "fieldCodebin": "a9"
+        "codebinField": "a9"
     },
     "txt10": {
         "align": "left",
         "class": "input_general",
-        "field": "10_Remolque_AnoFabricacion",
+        "ecudocsField": "10_Remolque_AnoFabricacion",
         "font": "normal",
         "fontSize": "14px",
         "height": 25,
@@ -230,12 +230,12 @@
         "width": 135,
         "x": 316,
         "y": 464,
-        "fieldCodebin": "a10"
+        "codebinField": "a10"
     },
     "txt11": {
         "align": "left",
         "class": "input_placaPais",
-        "field": "11_Remolque_PlacaPais",
+        "ecudocsField": "11_Remolque_PlacaPais",
         "font": "normal",
         "fontSize": "14px",
         "height": 25,
@@ -245,12 +245,12 @@
         "width": 277,
         "x": 464,
         "y": 464,
-        "fieldCodebin": "a11"
+        "codebinField": "a11"
     },
     "txt12": {
         "align": "left",
         "class": "input_general",
-        "field": "12_Remolque_Otro",
+        "ecudocsField": "12_Remolque_Otro",
         "font": "normal",
         "fontSize": "14px",
         "height": 25,
@@ -260,12 +260,12 @@
         "width": 303,
         "x": 754,
         "y": 464,
-        "fieldCodebin": "a12"
+        "codebinField": "a12"
     },
     "txt13": {
         "align": "left",
         "class": "input_conductor",
-        "field": "13_Conductor_Nombre",
+        "ecudocsField": "13_Conductor_Nombre",
         "font": "normal",
         "fontSize": "14px",
         "height": 22,
@@ -275,12 +275,12 @@
         "width": 470,
         "x": 52,
         "y": 526,
-        "fieldCodebin": "a13"
+        "codebinField": "a13"
     },
     "txt14": {
         "align": "left",
         "class": "input_general",
-        "field": "14_Conductor_Id",
+        "ecudocsField": "14_Conductor_Id",
         "font": "normal",
         "fontSize": "14px",
         "height": 22,
@@ -290,12 +290,12 @@
         "width": 210,
         "x": 52,
         "y": 571,
-        "fieldCodebin": "a14"
+        "codebinField": "a14"
     },
     "txt15": {
         "align": "left",
         "class": "input_general",
-        "field": "15_Conductor_Nacionalidad",
+        "ecudocsField": "15_Conductor_Nacionalidad",
         "font": "normal",
         "fontSize": "14px",
         "height": 22,
@@ -305,12 +305,12 @@
         "width": 247,
         "x": 276,
         "y": 571,
-        "fieldCodebin": "a15"
+        "codebinField": "a15"
     },
     "txt16": {
         "align": "left",
         "class": "input_general",
-        "field": "16_Conductor_Licencia",
+        "ecudocsField": "16_Conductor_Licencia",
         "font": "normal",
         "fontSize": "14px",
         "height": 22,
@@ -320,12 +320,12 @@
         "width": 210,
         "x": 52,
         "y": 615,
-        "fieldCodebin": "a16"
+        "codebinField": "a16"
     },
     "txt17": {
         "align": "left",
         "class": "input_general",
-        "field": "17_Conductor_Libreta",
+        "ecudocsField": "17_Conductor_Libreta",
         "font": "normal",
         "fontSize": "14px",
         "height": 22,
@@ -335,12 +335,12 @@
         "width": 245,
         "x": 277,
         "y": 615,
-        "fieldCodebin": "a17"
+        "codebinField": "a17"
     },
     "txt18": {
         "align": "left",
         "class": "input_conductor",
-        "field": "18_Auxiliar_Nombre",
+        "ecudocsField": "18_Auxiliar_Nombre",
         "font": "normal",
         "fontSize": "14px",
         "height": 22,
@@ -350,12 +350,12 @@
         "width": 522,
         "x": 535,
         "y": 526,
-        "fieldCodebin": "a18"
+        "codebinField": "a18"
     },
     "txt19": {
         "align": "left",
         "class": "input_general",
-        "field": "19_Auxiliar_Id",
+        "ecudocsField": "19_Auxiliar_Id",
         "font": "normal",
         "fontSize": "14px",
         "height": 22,
@@ -365,12 +365,12 @@
         "width": 252,
         "x": 535,
         "y": 571,
-        "fieldCodebin": "a19"
+        "codebinField": "a19"
     },
     "txt20": {
         "align": "left",
         "class": "input_general",
-        "field": "20_Auxiliar_Nacionalidad",
+        "ecudocsField": "20_Auxiliar_Nacionalidad",
         "font": "normal",
         "fontSize": "14px",
         "height": 22,
@@ -380,12 +380,12 @@
         "width": 257,
         "x": 800,
         "y": 571,
-        "fieldCodebin": "a20"
+        "codebinField": "a20"
     },
     "txt21": {
         "align": "left",
         "class": "input_general",
-        "field": "21_Auxiliar_Licencia",
+        "ecudocsField": "21_Auxiliar_Licencia",
         "font": "normal",
         "fontSize": "14px",
         "height": 22,
@@ -395,12 +395,12 @@
         "width": 252,
         "x": 535,
         "y": 615,
-        "fieldCodebin": "a21"
+        "codebinField": "a21"
     },
     "txt22": {
         "align": "left",
         "class": "input_general",
-        "field": "22_Auxiliar_Libreta",
+        "ecudocsField": "22_Auxiliar_Libreta",
         "font": "normal",
         "fontSize": "14px",
         "height": 22,
@@ -410,12 +410,12 @@
         "width": 257,
         "x": 800,
         "y": 615,
-        "fieldCodebin": "a22"
+        "codebinField": "a22"
     },
     "txt23": {
         "align": "left",
         "class": "input_lugar",
-        "field": "23_Carga_CiudadPais",
+        "ecudocsField": "23_Carga_CiudadPais",
         "font": "normal",
         "fontSize": "14px",
         "height": 22,
@@ -425,12 +425,12 @@
         "width": 470,
         "x": 52,
         "y": 676,
-        "fieldCodebin": "23"
+        "codebinField": "23"
     },
     "txt24": {
         "align": "left",
         "class": "input_lugar",
-        "field": "24_Descarga_CiudadPais",
+        "ecudocsField": "24_Descarga_CiudadPais",
         "font": "normal",
         "fontSize": "14px",
         "height": 22,
@@ -440,12 +440,12 @@
         "width": 522,
         "x": 535,
         "y": 676,
-        "fieldCodebin": "24"
+        "codebinField": "24"
     },
     "txt25_1": {
         "align": "left",
         "class": "input_tipocarga",
-        "field": "25a_Carga_TipoPeligrosa",
+        "ecudocsField": "25a_Carga_TipoPeligrosa",
         "font": "normal",
         "fontSize": "18px",
         "height": 22,
@@ -455,12 +455,12 @@
         "width": 18,
         "x": 152,
         "y": 724,
-        "fieldCodebin": "radio-1-set"
+        "codebinField": "radio-1-set"
     },
     "txt25_2": {
         "align": "left",
         "class": "input_tipocarga",
-        "field": "25b_Carga_TipoSustancias",
+        "ecudocsField": "25b_Carga_TipoSustancias",
         "font": "normal",
         "fontSize": "18px",
         "height": 22,
@@ -470,12 +470,12 @@
         "width": 18,
         "x": 432,
         "y": 724,
-        "fieldCodebin": "radio-3-set"
+        "codebinField": "radio-3-set"
     },
     "txt25_3": {
         "align": "left",
         "class": "input_tipocarga",
-        "field": "25c_Carga_TipoPerecible",
+        "ecudocsField": "25c_Carga_TipoPerecible",
         "font": "normal",
         "fontSize": "18px",
         "height": 22,
@@ -485,12 +485,12 @@
         "width": 18,
         "x": 575,
         "y": 724,
-        "fieldCodebin": "radio-2-set"
+        "codebinField": "radio-2-set"
     },
     "txt25_4": {
         "align": "left",
         "class": "input_tipocarga",
-        "field": "25d_Carga_TipoOtra",
+        "ecudocsField": "25d_Carga_TipoOtra",
         "font": "normal",
         "fontSize": "18px",
         "height": 22,
@@ -500,12 +500,12 @@
         "width": 18,
         "x": 700,
         "y": 724,
-        "fieldCodebin": "radio-4-set"
+        "codebinField": "radio-4-set"
     },
     "txt25_5": {
         "align": "left",
         "class": "input_general",
-        "field": "25e_Carga_TipoDescripcion",
+        "ecudocsField": "25e_Carga_TipoDescripcion",
         "font": "normal",
         "fontSize": "14px",
         "height": 48,
@@ -515,12 +515,12 @@
         "width": 258,
         "x": 799,
         "y": 710,
-        "fieldCodebin": "25d"
+        "codebinField": "25d"
     },
     "txt26": {
         "align": "left",
         "class": "input_general",
-        "field": "26_Carga_Contenedores",
+        "ecudocsField": "26_Carga_Contenedores",
         "font": "normal",
         "fontSize": "14px",
         "height": 22,
@@ -530,12 +530,12 @@
         "width": 470,
         "x": 52,
         "y": 798,
-        "fieldCodebin": "26"
+        "codebinField": "26"
     },
     "txt27": {
         "align": "left",
         "class": "input_general",
-        "field": "27_Carga_Precintos",
+        "ecudocsField": "27_Carga_Precintos",
         "font": "normal",
         "fontSize": "14px",
         "height": 22,
@@ -545,12 +545,12 @@
         "width": 522,
         "x": 535,
         "y": 798,
-        "fieldCodebin": "27"
+        "codebinField": "27"
     },
     "txt28": {
         "align": "left",
         "class": "input_cartaporte",
-        "field": "28_Mercancia_Cartaporte",
+        "ecudocsField": "28_Mercancia_Cartaporte",
         "font": "small",
         "fontSize": "12px",
         "height": 341,
@@ -560,12 +560,12 @@
         "width": 95,
         "x": 52,
         "y": 857,
-        "fieldCodebin": "a28"
+        "codebinField": "a28"
     },
     "txt29": {
         "align": "left",
         "class": "input_general",
-        "field": "29_Mercancia_Descripcion",
+        "ecudocsField": "29_Mercancia_Descripcion",
         "font": "small",
         "fontSize": "12px",
         "height": 341,
@@ -575,12 +575,12 @@
         "width": 380,
         "x": 155,
         "y": 857,
-        "fieldCodebin": "a29"
+        "codebinField": "a29"
     },
     "txt30": {
         "align": "left",
         "class": "input_general",
-        "field": "30_Mercancia_Bultos",
+        "ecudocsField": "30_Mercancia_Bultos",
         "font": "small",
         "fontSize": "12px",
         "height": 341,
@@ -590,12 +590,12 @@
         "width": 105,
         "x": 540,
         "y": 857,
-        "fieldCodebin": "a30"
+        "codebinField": "a30"
     },
     "txt31": {
         "align": "left",
         "class": "input_general",
-        "field": "31_Mercancia_Embalaje",
+        "ecudocsField": "31_Mercancia_Embalaje",
         "font": "small",
         "fontSize": "12px",
         "height": 341,
@@ -605,12 +605,12 @@
         "width": 130,
         "x": 651,
         "y": 857,
-        "fieldCodebin": "a31"
+        "codebinField": "a31"
     },
     "txt32_1": {
         "align": "right",
         "class": "input_valor",
-        "field": "32a_Peso_Bruto",
+        "ecudocsField": "32a_Peso_Bruto",
         "font": "normal",
         "fontSize": "14px",
         "height": 341,
@@ -620,12 +620,12 @@
         "width": 82,
         "x": 795,
         "y": 857,
-        "fieldCodebin": "a32a"
+        "codebinField": "a32a"
     },
     "txt32_2": {
         "align": "right",
         "class": "input_valor",
-        "field": "32a_Peso_BrutoTotal",
+        "ecudocsField": "32a_Peso_BrutoTotal",
         "font": "normal",
         "fontSize": "14px",
         "height": 22,
@@ -635,12 +635,12 @@
         "width": 82,
         "x": 795,
         "y": 1223,
-        "fieldCodebin": "a34b"
+        "codebinField": "a34b"
     },
     "txt32_3": {
         "align": "right",
         "class": "input_valor",
-        "field": "32b_Peso_Neto",
+        "ecudocsField": "32b_Peso_Neto",
         "font": "normal",
         "fontSize": "14px",
         "height": 341,
@@ -650,12 +650,12 @@
         "width": 82,
         "x": 887,
         "y": 857,
-        "fieldCodebin": "a32b"
+        "codebinField": "a32b"
     },
     "txt32_4": {
         "align": "right",
         "class": "input_valor",
-        "field": "32b_Peso_NetoTotal",
+        "ecudocsField": "32b_Peso_NetoTotal",
         "font": "normal",
         "fontSize": "14px",
         "height": 22,
@@ -665,12 +665,12 @@
         "width": 82,
         "x": 887,
         "y": 1223,
-        "fieldCodebin": "a34c"
+        "codebinField": "a34c"
     },
     "txt33_1": {
         "align": "left",
         "class": "input_valor",
-        "field": "33_Otra_Medida",
+        "ecudocsField": "33_Otra_Medida",
         "font": "normal",
         "fontSize": "14px",
         "height": 341,
@@ -680,12 +680,12 @@
         "width": 82,
         "x": 979,
         "y": 857,
-        "fieldCodebin": "a33"
+        "codebinField": "a33"
     },
     "txt33_2": {
         "align": "left",
         "class": "input_valor",
-        "field": "33_Otra_MedidaTotal",
+        "ecudocsField": "33_Otra_MedidaTotal",
         "font": "normal",
         "fontSize": "14px",
         "height": 22,
@@ -695,12 +695,12 @@
         "width": 82,
         "x": 979,
         "y": 1223,
-        "fieldCodebin": "a34d"
+        "codebinField": "a34d"
     },
     "txt34": {
         "align": "left",
         "class": "input_incoterm",
-        "field": "34_Precio_Incoterm_Moneda",
+        "ecudocsField": "34_Precio_Incoterm_Moneda",
         "font": "normal",
         "fontSize": "14px",
         "height": 22,
@@ -710,12 +710,12 @@
         "width": 653,
         "x": 52,
         "y": 1223,
-        "fieldCodebin": "a34a"
+        "codebinField": "a34a"
     },
     "txt35": {
         "align": "left",
         "class": "input_general",
-        "field": "35_Observaciones",
+        "ecudocsField": "35_Observaciones",
         "font": "normal",
         "fontSize": "14px",
         "height": 36,
@@ -725,12 +725,12 @@
         "width": 470,
         "x": 52,
         "y": 1262,
-        "fieldCodebin": "35"
+        "codebinField": "35"
     },
     "txt37": {
         "align": "left",
         "class": "input_general",
-        "field": "37_Aduana_Cruce",
+        "ecudocsField": "37_Aduana_Cruce",
         "font": "normal",
         "fontSize": "14px",
         "height": 22,
@@ -740,12 +740,12 @@
         "width": 253,
         "x": 535,
         "y": 1262,
-        "fieldCodebin": "37"
+        "codebinField": "37"
     },
     "txt38": {
         "align": "left",
         "class": "input_general",
-        "field": "38_Aduana_Destino",
+        "ecudocsField": "38_Aduana_Destino",
         "font": "normal",
         "fontSize": "14px",
         "height": 22,
@@ -755,12 +755,12 @@
         "width": 257,
         "x": 800,
         "y": 1262,
-        "fieldCodebin": "38"
+        "codebinField": "38"
     },
     "txt40": {
         "align": "left",
         "class": "input_fecha",
-        "field": "40_Fecha_Emision",
+        "ecudocsField": "40_Fecha_Emision",
         "font": "small",
         "fontSize": "12px",
         "height": 22,
@@ -770,7 +770,7 @@
         "width": 350,
         "x": 180,
         "y": 1366,
-        "fieldCodebin": "a40"
+        "codebinField": "a40"
     },
     "txt41": {
         "restrictions": [
@@ -778,7 +778,7 @@
         ],
         "align": "center",
         "class": "input_tipo",
-        "field": "41_OriginalCopia",
+        "ecudocsField": "41_OriginalCopia",
         "font": "large",
         "fontSize": "18px",
         "height": 30,
@@ -788,6 +788,6 @@
         "width": 173,
         "x": 477,
         "y": 1394,
-        "fieldCodebin": ""
+        "codebinField": ""
     }
 }
