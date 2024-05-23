@@ -2,6 +2,7 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
+23-Mayo: r0.871 Fixed errors: testing.
 22-Mayo: r0.87  Added DocNumber to GUI. Improved info:embalaje.
 16-Mayo: r0.86  Added two user for NTA. Codebin search using NAME istead ID.
 13-Mayo: r0.851 Add headless.
