@@ -2,6 +2,9 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
+30-Mayo: r0.877 Fixed info embalaje and fecha entrega.
+27-Mayo: r0.876 Added headless only for debug.
+27-Mayo: r0.875 Removed headless only for debug.
 24-Mayo: r0.874 Fixed ecuapass_bot:currentRecord instead procesedRecords.
 23-Mayo: r0.873 Improver timer ending.
 23-Mayo: r0.872 Updated from windows installation.
