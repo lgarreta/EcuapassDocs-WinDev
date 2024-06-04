@@ -2,6 +2,7 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
+03-Jun:: r0.880 Update: removed previos skipN
 03-Jun:: r0.879 Improved fillCheckBox: non-stop
 30-Mayo: r0.878 Fixed embalaje 
 30-Mayo: r0.877 Fixed info embalaje and fecha entrega.
