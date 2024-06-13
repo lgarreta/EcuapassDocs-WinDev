@@ -2,6 +2,7 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
+Jun/12: r0.9085: Update test 5
 Jun/12: r0.9084: Update test 4
 Jun/12: r0.9083: Update test 3
 Jun/12: r0.9082: Update test 2
