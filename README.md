@@ -2,6 +2,7 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
+Jun/12: r0.9082: Update test 2
 Jun/12: r0.9081: Update test
 Jun/12: r0.908:  controller.out withing a invokeLater
 Jun/11: r0.907:  HandleResponse run from a InvokeLater.

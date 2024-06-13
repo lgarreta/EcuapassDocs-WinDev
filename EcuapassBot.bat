@@ -2,8 +2,7 @@ taskkill /IM "ecuapass_app.exe" /F
 
 echo "Actualizando Ecuapassdocs..."
 
-git reset --hard
-git clean -f
-git pull
+git fetch origin main
+git reset --hard origin/main
 
 ecuapass_app.exe
